@@ -29,7 +29,7 @@
 
 ## Get in Touch
 
-- **Email:** gotsteve0812@gmain.com
+- **Email:** gotsteve0812@gmail.com
 - **X:** [@gotsteven2](https://x.com/gotsteven2)
 
 ## GitHub Stats
