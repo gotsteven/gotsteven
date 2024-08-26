@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile! 👋🤓
 
 ## About Me
 
@@ -38,4 +38,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1F10230048&layout=compact&theme=radical)
 
-## Thanks for Visiting! 😊
+## Thanks for Visiting! 🤩
