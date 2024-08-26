@@ -25,17 +25,17 @@
 
 ## Projects
 
-- **[ResBattleArena](#)** - A real-time, one-on-one debate game featuring AI-powered judgment and feedback.
+- **[ResBattleArena](https://github.com/1F10230048/resbattle-arena)** - A real-time, one-on-one debate game featuring AI-powered judgment and feedback.
 
 ## Get in Touch
 
 - **Email:** gotsteve0812@gmain.com
-- **X:** @gotsteven2(#)
+- **X:** [@gotsteven2](https://x.com/gotsteven2)
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1F10230048&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1F10230048&layout=compact&theme=radical)
 
 ## Thanks for Visiting! 😊
