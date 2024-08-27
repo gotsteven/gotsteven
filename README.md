@@ -2,7 +2,7 @@
 
 ## About Me
 
-👩‍💻 **Name:** ごっと  
+👩‍💻 **Name:** ごっと(gotsteve)  
 🎓 **Education:** Currently a 2nd-year university student of INIAD  
 💡 **Interests:** Web Development, and Logic  
 🔭 **Learning:** React, Next.js, TypeScript, and hono framework  
