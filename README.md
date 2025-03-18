@@ -5,7 +5,7 @@
 👩‍💻 **Name:** ごっと (gotsteven)  
 🎓 **Education:** Currently a 2nd-year university student of INIAD  
 💡 **Interests:** Web Development, and Logic  
-🔭 **Learning:** React, Next.js, TypeScript, and hono framework  
+🔭 **Learning:** React, Next.js, TypeScript
 
 ## Tech Stack
 
@@ -30,7 +30,7 @@
 ## Get in Touch
 
 - **Email:** gotsteve0812@gmail.com
-- **X:** [@gotsteven2](https://x.com/gotsteven2)
+- **X:** [@gotsteven1](https://x.com/gotsteven1)
 
 ## GitHub Stats
 
