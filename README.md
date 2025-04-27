@@ -3,8 +3,8 @@
 ## About Me
 
 👩‍💻 **Name:** ごっと (gotsteven)  
-🎓 **Education:** Currently a 2nd-year university student of INIAD  
-💡 **Interests:** Web Development, and Logic  
+🎓 **Education:** Currently a 3nd-year university student of INIAD  
+💡 **Interests:** Web Development, AI and Logic  
 🔭 **Learning:** React, Next.js, TypeScript
 
 ## Tech Stack
@@ -16,8 +16,6 @@
 ### Frameworks and Libraries:
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-![hono](https://img.shields.io/badge/-hono-000000?style=flat-square)
-![Drizzle](https://img.shields.io/badge/-Drizzle-2D2D2D?style=flat-square)
 
 ### Tools:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
