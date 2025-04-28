@@ -24,6 +24,7 @@
 ## Projects
 
 - **[ResBattleArena](https://github.com/gotsteven/resbattle-arena)** - A real-time, one-on-one debate game featuring AI-powered judgment and feedback.
+- **[DiggraphAnime](https://github.com/mst-mkt/diggraph-anime)** - Discover new anime by exploring a dynamic recommendation graph with detailed info, reviews, and trailers at your fingertips.
 
 ## Get in Touch
 
